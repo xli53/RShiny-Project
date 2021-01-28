@@ -42,7 +42,6 @@ Data file:
 CVD.csv
 The ui.R and server.R are the code for the shiny application:
 
-Shiny: 
-Github: 
-RPubs: 
-Presentation: 
+Shiny: https://xli53.shinyapps.io/RShiny-Project/ \
+Github: https://github.com/xli53/RShiny-Project/ \
+Presentation: https://rpubs.com/lixiaoann/718529
